@@ -15,7 +15,6 @@ body {
   padding: 30px;
   margin: 100px auto 0;
   border-radius: 10px;
-
 }
 
 .app h1 {
@@ -24,7 +23,6 @@ body {
   border-bottom: 1px solid black;
   padding-bottom: 30px;
   color: #001e4d;
-
 }
 
 .quiz {
@@ -66,9 +64,16 @@ body {
   border-radius: 5px;
   width: 150px;
   cursor: pointer;
-
 }
 
 #next:hover {
   background: #000b1e;
+}
+
+.correct {
+  background: #9aeabc;
+}
+
+.incorrect {
+  background: #ff9393;
 }
