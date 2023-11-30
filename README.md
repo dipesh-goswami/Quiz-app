@@ -1,14 +1,15 @@
 # Quiz-app
-This is a multiple choice question Quiz app.
+>This is a multiple choice question Quiz app.
 
+[Click Here to see this app live](https://quiz-app-by-dipesh.netlify.app/)
 
-![Alt text](1.png)
+![Alt text](screenshots/1.png)
 
-![Alt text](2.png)
+![Alt text](screenshots/2.png)
 
-![Alt text](3.png)
+![Alt text](screenshots/3.png)
 
-![Alt text](4.png)
+![Alt text](screenshots/4.png)
 
 
 
